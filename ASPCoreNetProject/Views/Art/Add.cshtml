@@ -1,0 +1,70 @@
+﻿@model ASPCoreNetProject.ViewModels.ArtViewModel
+
+@{
+    ViewData["Title"] = "Add";
+    SelectList selects = new SelectList(typeof(ArtType).GetEnumValues());
+}
+
+<h1>Add</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Add" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <textarea asp-for="Description" class="form-control"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TypeOfArt" class="control-label"></label>
+                <select asp-for="TypeOfArt" asp-items="selects" class="form-control"></select>
+                <span asp-validation-for="TypeOfArt" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Photos" class="control-label"></label>
+                <div class="custom-file">
+                    <input asp-for="Photos" multiple accept="image/*" class="form-control custom-file-input" />
+                    <label class="custom-file-label">Choose Photos...</label>
+                </div>
+                <span asp-validation-for="Photos" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+<script>
+    $(document).ready(function () {
+        $('.custom-file-input').on("change", function () {
+            var fileLabel = $(this).next('.custom-file-label');
+            var files = $(this)[0].files;
+            if (files.length > 1) {
+                fileLabel.html(files.length + ' files selected');
+            }
+            else if (files.length == 1) {
+                fileLabel.html(files[0].name);
+            }
+        });
+    });
+</script>
+}

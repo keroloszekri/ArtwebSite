@@ -1,0 +1,382 @@
+﻿@model List<ShowArtViewModel>
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+<div class="container-fluid">
+    <div class="row">
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-12 ">
+                    <nav>
+                        <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
+                            <a class="nav-item nav-link active" id="nav-All-tab" data-toggle="tab" href="#nav-All" role="tab" aria-controls="nav-All" aria-selected="true">All</a>
+                            <a class="nav-item nav-link" id="nav-Tableau-tab" data-toggle="tab" href="#nav-Tableau" role="tab" aria-controls="nav-Tableau" aria-selected="false">Tableau</a>
+                            <a class="nav-item nav-link" id="nav-Sclupture-tab" data-toggle="tab" href="#nav-Sclupture" role="tab" aria-controls="nav-Sclupture" aria-selected="false">Sclupture</a>
+                            <a class="nav-item nav-link" id="nav-Others-tab" data-toggle="tab" href="#nav-Others" role="tab" aria-controls="nav-Others" aria-selected="false">Others</a>
+                        </div>
+                    </nav>
+                    <div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
+                        <div class="tab-pane fade show active container-fluid" id="nav-All" role="tabpanel" aria-labelledby="nav-All-tab">
+                            <div class="row">
+                                @foreach (var item in Model)
+                                {
+
+                                    <div id="@item.ArtId" class="card promoting-card col-md-4 p-0 m-0 Art-@item.ArtId-D">
+                                        <!-- Card content -->
+
+                                        <div class="card-body d-flex flex-row">
+
+                                            <!-- Avatar -->
+                                            <img src="~/images/@item.UserPicture" class="rounded-circle mr-3" style="height:50px;width:50px" alt="avatar">
+
+                                            <!-- Content -->
+                                            <div>
+
+                                                <!-- Title -->
+                                                <h4 class="card-title font-weight-bold mb-2" onmouseover="style='cursor:pointer'" onclick="location.href='Art/ShowDetails/@item.ArtId'">@item.Name</h4>
+
+                                                <!-- Subtitle -->
+                                                <p class="card-text"><i class="far fa-clock pr-2"></i>@item.DateTime.ToShortDateString()</p>
+                                            </div>
+
+                                        </div>
+
+
+                                        <!-- Card image -->
+                                        <div class="view overlay">
+                                            <img class="card-img-top rounded-0  img-fluid" style="width:100%;height:200px" onclick="location.href='Art/ShowDetails/@item.ArtId'" src="~/images/@item.Path">
+                                            <a asp-action="ShowDetails" asp-controller="Art" asp-route-id="@item.ArtId">
+                                                <div class="mask rgba-white-slight"></div>
+                                            </a>
+                                        </div>
+
+                                        <!-- Card content -->
+                                        <div class="card-body">
+
+                                            <div class="collapse-content">
+                                                <span>
+                                                    Type: @item.TypeOfArt
+                                                </span>
+                                                <br />
+                                                <span class="text-muted">
+                                                    Price: @item.price
+                                                </span>
+                                                @if (User.Identity.IsAuthenticated)
+                                                {
+                                                    <a id="@item.ArtId" style="font-size:30px ;color:@item.color"
+                                                       class="card-link Art-@item.ArtId-H" onclick="unlike(@item.ArtId)">
+                                                        <i class="fas fa-heart float-right ml-3"></i>
+                                                    </a>
+
+                                                    <a id="@item.ArtId" style="font-size:30px ;color:@item.color"
+                                                       class="card-link" onclick="Delete (@item.ArtId)">
+                                                        <i class="fas fa-trash-alt float-right text-danger ml-3"></i>
+                                                    </a>
+                                                    <a id="@item.ArtId" style="font-size:25px ;color:@item.color" class="card-link" href="~/Art/Edit/@item.ArtId">
+                                                        <i class="far fa-edit float-right text-info"></i>
+                                                    </a>
+
+                                                }
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                }
+                            </div>
+                        </div>
+                        <div class="tab-pane fade container-fluid" id="nav-Tableau" role="tabpanel" aria-labelledby="nav-Tableau-tab">
+                            <div class="row">
+                                @foreach (var item in Model)
+                                {
+                                    if (item.TypeOfArt.ToString() != "Tableau")
+                                        continue;
+                                    <div id="@item.ArtId" class="card promoting-card col-md-4 p-0 m-0 Art-@item.ArtId-D">
+                                        <!-- Card content -->
+
+                                        <div class="card-body d-flex flex-row">
+
+                                            <!-- Avatar -->
+                                            <img src="~/images/@item.UserPicture" class="rounded-circle mr-3" style="height:50px;width:50px" alt="avatar">
+
+                                            <!-- Content -->
+                                            <div>
+
+                                                <!-- Title -->
+                                                <h4 class="card-title font-weight-bold mb-2" onmouseover="style='cursor:pointer'" onclick="location.href='Art/ShowDetails/@item.ArtId'">@item.Name</h4>
+
+                                                <!-- Subtitle -->
+                                                <p class="card-text"><i class="far fa-clock pr-2"></i>@item.DateTime.ToShortDateString()</p>
+                                                
+                                            </div>
+
+                                        </div>
+
+
+                                        <!-- Card image -->
+                                        <div class="view overlay">
+                                            <img class="card-img-top rounded-0  img-fluid" style="width:100%;height:200px" onclick="location.href='Art/ShowDetails/@item.ArtId'" src="~/images/@item.Path">
+                                            <a asp-action="ShowDetails" asp-controller="Art" asp-route-id="@item.ArtId">
+                                                <div class="mask rgba-white-slight"></div>
+                                            </a>
+                                        </div>
+
+                                        <!-- Card content -->
+                                        <div class="card-body">
+
+                                            <div class="collapse-content">
+                                                <span>
+                                                    Type: @item.TypeOfArt
+                                                </span>
+                                                <br />
+                                                <span class="text-muted">
+                                                    Price: @item.price
+                                                </span>
+                                                @if (User.Identity.IsAuthenticated)
+                                                {
+                                                    <a id="@item.ArtId" style="font-size:30px ;color:@item.color"
+                                                       class="card-link Art-@item.ArtId-H" onclick="unlike(@item.ArtId)">
+                                                        <i class="fas fa-heart float-right ml-3"></i>
+                                                    </a>
+
+                                                    <a id="@item.ArtId" style="font-size:30px ;color:@item.color"
+                                                       class="card-link" onclick="Delete (@item.ArtId)">
+                                                        <i class="fas fa-trash-alt float-right text-danger ml-3"></i>
+                                                    </a>
+                                                    <a id="@item.ArtId" style="font-size:25px ;color:@item.color" class="card-link" href="~/Art/Edit/@item.ArtId">
+                                                        <i class="far fa-edit float-right text-info"></i>
+                                                    </a>
+                                                }
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                }
+                            </div>
+                        </div>
+                        <div class="tab-pane fade container-fluid" id="nav-Sclupture" role="tabpanel" aria-labelledby="nav-Sclupture-tab">
+                            <div class="row">
+                                @foreach (var item in Model)
+                                {
+                                    if (item.TypeOfArt.ToString() != "Sclupture")
+                                        continue;
+                                    <div id="@item.ArtId" class="card promoting-card col-md-4 p-0 m-0 Art-@item.ArtId-D">
+                                        <!-- Card content -->
+
+                                        <div class="card-body d-flex flex-row">
+
+                                            <!-- Avatar -->
+                                            <img src="~/images/@item.UserPicture" class="rounded-circle mr-3" style="height:50px;width:50px" alt="avatar">
+
+                                            <!-- Content -->
+                                            <div>
+
+                                                <!-- Title -->
+                                                <h4 class="card-title font-weight-bold mb-2" onmouseover="style='cursor:pointer'" onclick="location.href='Art/ShowDetails/@item.ArtId'">@item.Name</h4>
+
+                                                <!-- Subtitle -->
+                                                <p class="card-text"><i class="far fa-clock pr-2"></i>@item.DateTime.ToShortDateString()</p>
+                                                
+                                            </div>
+
+                                        </div>
+
+
+                                        <!-- Card image -->
+                                        <div class="view overlay">
+                                            <img class="card-img-top rounded-0  img-fluid" style="width:100%;height:200px" onclick="location.href='Art/ShowDetails/@item.ArtId'" src="~/images/@item.Path">
+                                            <a asp-action="ShowDetails" asp-controller="Art" asp-route-id="@item.ArtId">
+                                                <div class="mask rgba-white-slight"></div>
+                                            </a>
+                                        </div>
+
+                                        <!-- Card content -->
+                                        <div class="card-body">
+
+                                            <div class="collapse-content">
+                                                <span>
+                                                    Type: @item.TypeOfArt
+                                                </span>
+                                                <br />
+                                                <span class="text-muted">
+                                                    Price: @item.price
+                                                </span>
+                                                @if (User.Identity.IsAuthenticated)
+                                                {
+                                                    <a id="@item.ArtId" style="font-size:30px ;color:@item.color"
+                                                       class="card-link Art-@item.ArtId-H" onclick="unlike(@item.ArtId)">
+                                                        <i class="fas fa-heart float-right ml-3"></i>
+                                                    </a>
+
+                                                    <a id="@item.ArtId" style="font-size:30px ;color:@item.color"
+                                                       class="card-link" onclick="Delete (@item.ArtId)">
+                                                        <i class="fas fa-trash-alt float-right text-danger ml-3"></i>
+                                                    </a>
+                                                    <a id="@item.ArtId" style="font-size:25px ;color:@item.color" class="card-link" href="~/Art/Edit/@item.ArtId">
+                                                        <i class="far fa-edit float-right text-info"></i>
+                                                    </a>
+                                                }
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                }
+                            </div>
+                        </div>
+                        <div class="tab-pane fade container-fluid" id="nav-Others" role="tabpanel" aria-labelledby="nav-Sclupture-tab">
+                            <div class="row">
+                                @foreach (var item in Model)
+                                {
+                                    if (item.TypeOfArt.ToString() != "Others")
+                                        continue;
+                                    <div id="@item.ArtId" class="card promoting-card col-md-4 p-0 m-0 Art-@item.ArtId-D">
+                                        <!-- Card content -->
+
+                                        <div class="card-body d-flex flex-row">
+
+                                            <!-- Avatar -->
+                                            <img src="~/images/@item.UserPicture" class="rounded-circle mr-3" style="height:50px;width:50px" alt="avatar">
+
+                                            <!-- Content -->
+                                            <div>
+
+                                                <!-- Title -->
+                                                <h4 class="card-title font-weight-bold mb-2" onmouseover="style='cursor:pointer'" onclick="location.href='Art/ShowDetails/@item.ArtId'">@item.Name</h4>
+
+                                                <!-- Subtitle -->
+                                                <p class="card-text"><i class="far fa-clock pr-2"></i>@item.DateTime.ToShortDateString()</p>
+                                               
+                                            </div>
+
+                                        </div>
+
+
+                                        <!-- Card image -->
+                                        <div class="view overlay">
+                                            <img class="card-img-top rounded-0  img-fluid" style="width:100%;height:200px" onclick="location.href='Art/ShowDetails/@item.ArtId'" src="~/images/@item.Path">
+                                            <a asp-action="ShowDetails" asp-controller="Art" asp-route-id="@item.ArtId">
+                                                <div class="mask rgba-white-slight"></div>
+                                            </a>
+                                        </div>
+
+                                        <!-- Card content -->
+                                        <div class="card-body">
+
+                                            <div class="collapse-content">
+                                                <span>
+                                                    Type: @item.TypeOfArt
+                                                </span>
+                                                <br />
+                                                <span class="text-muted">
+                                                    Price: @item.price
+                                                </span>
+                                                @if (User.Identity.IsAuthenticated)
+                                                {
+                                                    <a id="@item.ArtId" style="font-size:30px ;color:@item.color"
+                                                       class="card-link Art-@item.ArtId-H" onclick="unlike(@item.ArtId)">
+                                                        <i class="fas fa-heart float-right ml-3"></i>
+                                                    </a>
+
+                                                    <a id="@item.ArtId" style="font-size:30px ;color:@item.color"
+                                                       class="card-link" onclick="Delete (@item.ArtId)">
+                                                        <i class="fas fa-trash-alt float-right text-danger ml-3"></i>
+                                                    </a>
+                                                    <a id="@item.ArtId" style="font-size:25px ;color:@item.color" class="card-link" href="~/Art/Edit/@item.ArtId">
+                                                        <i class="far fa-edit float-right text-info"></i>
+                                                    </a>
+                                                }
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+
+    function unlike(id) {
+        if (document.getElementsByClassName('Art-' + id + '-H')[0].style.color == 'black') {
+            var xhttp;
+            console.log(id);
+            xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    console.log("create" + id);
+                    var p = document.getElementsByClassName('Art-' + id + '-H')
+                    for (i = 0, len = p.length; i < len; i++) {
+                        p[i].style.color = 'red';
+                    }
+                }
+                else {
+                    console.log(this.response);
+                    var p = document.getElementsByClassName('Art-' + id + '-H')
+                    for (i = 0, len = p.length; i < len; i++) {
+                        p[i].style.color = 'black';
+                    }
+                }
+            };
+            xhttp.open("POST", "/favourite/Create/", true);
+            xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+            xhttp.send("artid=" + id);
+        }
+        else {
+            var xhttp;
+            xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    console.log("Delete" + id);
+                    var p = document.getElementsByClassName('Art-' + id + '-H')
+                    for (i = 0, len = p.length; i < len; i++) {
+                        p[i].style.color = 'black';
+                    }
+                }
+                else {
+                    console.log(document.getElementById(id).style.color);
+                    var p = document.getElementsByClassName('Art-' + id + '-H')
+                    for (i = 0, len = p.length; i < len; i++) {
+                        p[i].style.color = 'red';
+                    }
+                }
+            };
+            console.log(id);
+            xhttp.open("POST", "/favourite/Delete/" + id, true);
+            xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+            xhttp.send("artid=" + id);
+        }
+
+
+    }
+    function Delete(id) {
+        var xhttp;
+
+        xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+                $('.Art-' + id + '-D').remove();
+            }
+            else {
+                console.log("fewefwe");
+            }
+        };
+        console.log(id);
+        xhttp.open("POST", "/Art/Delete/" + id, true);
+        xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xhttp.send("artid=" + id);
+    }
+
+
+
+</script>

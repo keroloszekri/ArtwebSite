@@ -1,0 +1,123 @@
+﻿@model List<UserviewModel>
+@{
+    SelectList rols = new SelectList(ViewBag.roles, "Name", "Name");
+}
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+<div class="container-fluid">
+    <div class="row">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-12 ">
+                    <nav>
+                        <div class="nav nav-tabs nav-fill" id="nav-tab" role="tablist">
+                            <a class="nav-item nav-link active" id="nav-All-tab" data-toggle="tab" href="#nav-All" role="tab" aria-controls="nav-All" aria-selected="true">Users</a>
+                        </div>
+                    </nav>
+                    <div class="tab-content py-3 px-3 px-sm-0" id="nav-tabContent">
+                        <div class="tab-pane fade show active container-fluid" id="nav-All" role="tabpanel" aria-labelledby="nav-All-tab">
+                            <div class="row">
+                                @foreach (var item in Model)
+                                {
+
+                                    <div id="@item.ID" class="card promoting-card col-md-4 p-0 m-0">
+                                        <!-- Card content -->
+
+                                        <div class="card-body d-flex flex-row">
+
+                                            <div>
+
+                                                <!-- Title -->
+                                                <h4 class="card-title font-weight-bold mb-2">@item.FullName</h4>
+
+                                                <!-- Subtitle -->
+                                                <p class="card-text"><i class="far fa-clock pr-2"></i>@item.Phone</p>
+                                            </div>
+
+                                        </div>
+
+
+                                        <!-- Card image -->
+                                        <div class="view overlay">
+                                            <img class="card-img-top rounded-0  img-fluid" style="width:100%;height:200px" src="~/images/@item.ProfilePicture">
+
+                                        </div>
+
+                                        <!-- Card content -->
+                                        <div class="card-body">
+
+                                            <div class="collapse-content">
+                                                <span>
+                                                    Mail:<a href="mailto:@item.Email" class="text-info"> @item.Email</a>
+                                                </span>
+                                                <br />
+                                                <span class="text-muted">
+                                                    Gender: @item.Gender
+                                                </span>
+                                                
+                                                @if (User.IsInRole("Admin"))
+                                                {
+                                                    <a style="font-size:30px"
+                                                       class="card-link" onclick="Delete ('@item.ID')">
+                                                        <i class="fas fa-trash-alt float-right text-danger"></i>
+                                                    </a>
+                                                    <select  id="role-@item.ID" onload="function() { document.getElementById('role-@item.ID').value =@item.UserRole;}" asp-items="rols" asp-for="@item.UserRole" onchange="update('@item.ID','role-@item.ID' )" class="btn-danger float-right">
+                                                    </select>
+                                                }
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                }
+                            </div>
+                        </div>
+                        
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    function update(userId,roleId) {
+        var xhttp;
+        console.log(roleId);
+        //console.log(document.getElementById(roleId).selectedIndex);
+        console.log(document.getElementById(roleId).value);
+        xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+                console.log(this.response);
+            }
+            else {
+                console.log(this.response);
+            }
+        };
+
+        console.log(roleId);
+        xhttp.open("POST", "/User/UpdateRole/", true);
+        xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xhttp.send("UserUpdated=" + userId + "&RoleName=" + document.getElementById(roleId).value);
+    }
+    function Delete(id) {
+        var xhttp;
+        console.log(id);
+        xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function () {
+            if (this.readyState == 4 && this.status == 200) {
+                console.log(this.response);
+                document.getElementById(id).remove();
+            }
+            else {
+                console.log("fewefwe");
+            }
+        };
+        console.log(id);
+        xhttp.open("POST", "/User/Delete/", true);
+        xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xhttp.send("UserId=" + id);
+    }
+
+</script>

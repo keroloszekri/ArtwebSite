@@ -1,0 +1,86 @@
+﻿@model ArtDetailsViewModel
+<div class="row mx-auto">
+
+    @if (Model.Path != null || Model.Path.Count() > 0)
+    {
+        <div class="col-md-6">
+            <div id="demo" class="carousel slide" data-ride="carousel">
+                <!-- Indicators -->
+                <ul class="carousel-indicators">
+                    @for (int i = 0; i < Model.Path.Count(); i++)
+                    {
+                        <li data-target="#demo" data-slide-to="@i"></li>
+                    }
+                </ul>
+
+                <!-- The slideshow -->
+
+                <div class="carousel-inner mx-auto d-block">
+                    @foreach (var item in Model.Path)
+                    {
+                        if (item == Model.Path[0])
+                        {
+                            <div class="carousel-item active" style="height:400px">
+                                <img src="~/images/@item" style="height:100%; width:100%" class="img-fluid img-thumbnail">
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="carousel-item" style="height:400px">
+                                <img src="~/images/@item" class="img-fluid img-thumbnail" style="height:100%; width:100%" alt="Los Angeles">
+                            </div>
+                        }
+                    }
+                </div>
+
+                <!-- Left and right controls -->
+                <a class="carousel-control-prev" href="#demo" data-slide="prev">
+                    <span class="carousel-control-prev-icon"></span>
+                </a>
+                <a class="carousel-control-next" href="#demo" data-slide="next">
+                    <span class="carousel-control-next-icon"></span>
+                </a>
+
+            </div>
+        </div>
+    }
+    <div class="col-md-6">
+        <table class="table table-light table-striped">
+            <tbody>
+                <tr><td>Name:</td><td> @Model.Name</td></tr>
+                <tr><td>Type:</td><td>@Model.TypeOfArt</td></tr>
+                <tr><td>By Artist:</td><td>@Model.FullName</td></tr>
+                <tr><td>Date:</td><td>@Model.DateTime.ToShortDateString()</td></tr>
+                <tr><td>Price:</td><td>@Model.Price</td></tr>
+                <tr><td>Description:</td><td>@Model.Description</td></tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+@section Right{
+    @await Component.InvokeAsync("Rate", new { id = Model.ArtId })
+}
+@section Left{
+    @await Component.InvokeAsync("User", new { id = Model.ArtId })
+}
+@section scripts{
+    <script>
+
+    $(document).ready(function () {
+
+         $.ajax({
+             url: '../../Rate/New',
+                type: 'Get',
+                dataType: 'Html',
+                 data: { id: @Model.ArtId },
+                success: function (response) {
+                    $("#Item").html(response);
+
+                 }
+            });
+
+    });
+
+    </script>
+
+}

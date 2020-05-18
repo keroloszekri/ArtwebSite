@@ -1,0 +1,162 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<ApplicationUser> SignInManager
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - ASPCoreNetProject</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <style>
+        nav > .nav.nav-tabs {
+            border: none;
+            color: #fff;
+            background: #272e38;
+            border-radius: 0;
+        }
+
+        nav > div a.nav-item.nav-link,
+        nav > div a.nav-item.nav-link.active {
+            border: none;
+            padding: 18px 25px;
+            color: #fff;
+            background: #272e38;
+            border-radius: 0;
+        }
+
+            nav > div a.nav-item.nav-link.active:after {
+                content: "";
+                position: relative;
+                bottom: -60px;
+                left: -10%;
+                border: 15px solid transparent;
+                border-top-color: #e74c3c;
+            }
+
+        .tab-content {
+            background: #fdfdfd;
+            line-height: 25px;
+            border: 1px solid #ddd;
+            border-top: 5px solid #e74c3c;
+            border-bottom: 5px solid #e74c3c;
+            padding: 30px 25px;
+        }
+
+        nav > div a.nav-item.nav-link:hover,
+        nav > div a.nav-item.nav-link:focus {
+            border: none;
+            background: #e74c3c;
+            color: #fff;
+            border-radius: 0;
+            transition: background 0.20s linear;
+        }
+
+        .collapse-content .fa.fa-heart:hover {
+            color: #f44336 !important;
+        }
+
+        .collapse-content .fa.fa-share-alt:hover {
+            color: #0d47a1 !important;
+        }
+
+        #mySidenav a {
+            position: absolute;
+            left: -80px;
+            transition: 0.3s;
+            padding: 15px;
+            width: 100px;
+            text-decoration: none;
+            font-size: 20px;
+            color: white;
+            border-radius: 0 5px 5px 0;
+        }
+
+            #mySidenav a:hover {
+                left: 0;
+            }
+
+        #u {
+            top: 130px;
+            background-color: #4CAF50;
+        }
+
+        #b {
+            top: 210px;
+            background-color: #2196F3;
+        }
+
+        #p {
+            top: 290px;
+            background-color: #f44336;
+        }
+
+        #c {
+            top: 280px;
+            background-color: #555
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-dark border-bottom box-shadow">
+            <div class="container-fluid">
+                <a class="navbar-brand text-light" asp-area="" asp-controller="Home" asp-action="Index"><img style="height:50px;width:50px" src="~/images/logo.jpg">PICS</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <partial name="_LoginPartial" />
+                    <ul class="navbar-nav flex-grow-1">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-light" asp-area="" asp-controller="Art" asp-action="Index">Portofolio</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-light" asp-area="" asp-controller="Favourite" asp-action="allfavourite">Favourite</a>
+                            </li>
+                        }
+                        <li class="nav-item">
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-2 bg-dark text-light">
+                @RenderSection("Left", false)
+            </div>
+            <main role="main" class="col-md-8">
+                @RenderBody()
+            </main>
+            <div class="col-md-2  bg-dark text-light">
+                @RenderSection("right", false)
+            </div>
+        </div>
+    </div>
+    <div id="mySidenav" class="sidenav">
+        @if (SignInManager.IsSignedIn(User))
+        {
+            <a href="/User" id="u">Users</a>
+            <a href="/art/add" id="b">Add Art</a>
+        }
+        <a href="/about" id="p">About</a>
+    </div>
+    <footer class="border-top footer text-muted bg-dark text-light">
+        <div class="container">
+            &copy; 2020 - ASPCoreNetProject - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

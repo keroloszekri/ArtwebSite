@@ -1,0 +1,1017 @@
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\appsettings.json
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.StaticWebAssets.xml
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.exe
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.deps.json
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.runtimeconfig.json
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.runtimeconfig.dev.json
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.pdb
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.Views.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.Views.pdb
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.csprojAssemblyReference.cache
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.csproj.CoreCompileInputs.cache
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.MvcApplicationPartsAssemblyInfo.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.MvcApplicationPartsAssemblyInfo.cache
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorAssemblyInfo.cache
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorAssemblyInfo.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.AssemblyInfoInputs.cache
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.AssemblyInfo.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.TagHelpers.input.cache
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.TagHelpers.output.cache
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorCoreGenerate.cache
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\AllFavourite.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\Add.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\Edit.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\Index.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\ShowDetails.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Favourite\AllFavourite.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_RatePartialView.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorTargetAssemblyInfo.cache
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorTargetAssemblyInfo.cs
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.Views.pdb
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.csproj.CopyComplete
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\staticwebassets\ASPCoreNetProject.StaticWebAssets.Manifest.cache
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\staticwebassets\ASPCoreNetProject.StaticWebAssets.xml
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.dll
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.pdb
+F:\ITI .Net Full Stack\Asp.net\ASP.NET Core\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.genruntimeconfig.cache
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\appsettings.json
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\libman.json
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.StaticWebAssets.xml
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.exe
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.deps.json
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.runtimeconfig.json
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.runtimeconfig.dev.json
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.pdb
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.Views.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.Views.pdb
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.csprojAssemblyReference.cache
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.csproj.CoreCompileInputs.cache
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.MvcApplicationPartsAssemblyInfo.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.MvcApplicationPartsAssemblyInfo.cache
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorAssemblyInfo.cache
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorAssemblyInfo.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.AssemblyInfoInputs.cache
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.AssemblyInfo.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.TagHelpers.input.cache
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.TagHelpers.output.cache
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorCoreGenerate.cache
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\AllFavourite.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\Add.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\Edit.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\Index.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\ShowDetails.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Favourite\AllFavourite.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_RatePartialView.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorTargetAssemblyInfo.cache
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorTargetAssemblyInfo.cs
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.Views.pdb
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.csproj.CopyComplete
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\staticwebassets\ASPCoreNetProject.StaticWebAssets.Manifest.cache
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\staticwebassets\ASPCoreNetProject.StaticWebAssets.xml
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.dll
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.pdb
+E:\iti_fullstack\ASPCoreNetProject\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.genruntimeconfig.cache
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\appsettings.json
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\libman.json
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.StaticWebAssets.xml
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.exe
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.deps.json
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.runtimeconfig.json
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.runtimeconfig.dev.json
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.pdb
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.Views.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.Views.pdb
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.csproj.CoreCompileInputs.cache
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.MvcApplicationPartsAssemblyInfo.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.MvcApplicationPartsAssemblyInfo.cache
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorAssemblyInfo.cache
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorAssemblyInfo.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.AssemblyInfoInputs.cache
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.AssemblyInfo.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.TagHelpers.input.cache
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.TagHelpers.output.cache
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorCoreGenerate.cache
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\AllFavourite.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\Add.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\Edit.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\Index.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\ShowDetails.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Favourite\AllFavourite.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Rate\_RatePartialView.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorTargetAssemblyInfo.cache
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorTargetAssemblyInfo.cs
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.Views.pdb
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.csproj.CopyComplete
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\staticwebassets\ASPCoreNetProject.StaticWebAssets.Manifest.cache
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\staticwebassets\ASPCoreNetProject.StaticWebAssets.xml
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.dll
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.pdb
+E:\iti_fullstack\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.genruntimeconfig.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.StaticWebAssets.xml
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.exe
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.deps.json
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.runtimeconfig.json
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.runtimeconfig.dev.json
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.pdb
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.Views.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.Views.pdb
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.csprojAssemblyReference.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.csproj.CoreCompileInputs.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorAssemblyInfo.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorAssemblyInfo.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.AssemblyInfoInputs.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.AssemblyInfo.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.TagHelpers.input.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.TagHelpers.output.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorCoreGenerate.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\AllFavourite.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\Add.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\Edit.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\Index.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\ShowDetails.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Favourite\AllFavourite.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Rate\_RatePartialView.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorTargetAssemblyInfo.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorTargetAssemblyInfo.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.Views.pdb
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.csproj.CopyComplete
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\staticwebassets\ASPCoreNetProject.StaticWebAssets.Manifest.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\staticwebassets\ASPCoreNetProject.StaticWebAssets.xml
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.pdb
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.genruntimeconfig.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.StaticWebAssets.xml
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.exe
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.deps.json
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.runtimeconfig.json
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.runtimeconfig.dev.json
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.pdb
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.Views.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ASPCoreNetProject.Views.pdb
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.csprojAssemblyReference.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorAssemblyInfo.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorAssemblyInfo.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.AssemblyInfoInputs.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.AssemblyInfo.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.TagHelpers.input.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.TagHelpers.output.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorCoreGenerate.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\Add.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\Edit.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\Index.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Art\ShowDetails.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Favourite\AllFavourite.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Rate\_RatePartialView.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\User\_UserPartialView.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorTargetAssemblyInfo.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.RazorTargetAssemblyInfo.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.Views.pdb
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.csproj.CopyComplete
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\staticwebassets\ASPCoreNetProject.StaticWebAssets.Manifest.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\staticwebassets\ASPCoreNetProject.StaticWebAssets.xml
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.pdb
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.genruntimeconfig.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\NETCore.MailKit.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.csproj.CoreCompileInputs.cache
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Prog\Desktop\ASPCoreNetProjectfinal - Copy\ASPCoreNetProject\obj\Debug\netcoreapp3.1\ASPCoreNetProject.MvcApplicationPartsAssemblyInfo.cache
